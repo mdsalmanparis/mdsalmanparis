@@ -128,7 +128,7 @@ Hello World! I'm **Mohamed Salman Paris M'**, a Cloud Infra. Engineer with a cor
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/VMware_logo.svg" width="32" height="32" alt="VMWare" />
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/5/5c/VMware_logo.svg](https://en.wikipedia.org/wiki/VMware#/media/File:Vmware-by-broadcom.svg)" width="32" height="32" alt="VMWare" />
       <br>VMWare
     </td>
     <td align="center" width="96">
