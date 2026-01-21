@@ -1,5 +1,5 @@
 # Mohamed Salman Paris M ⚡
-**Cloud Infrastructure Engineer | Data Engineering Specialist**
+**Software Developer & Jr, Cloud Infra. Engineer**
 
 ### Hello World! 🛡️
 I am a **Cloud Infra. Engineer** with a core in **Data Analytics & Engineering** where I have architected Data Warehouses, orchestrated ETL Pipelines, and developed Dynamic Dashboards. 
