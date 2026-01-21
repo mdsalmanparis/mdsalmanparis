@@ -1,5 +1,5 @@
 # Mohamed Salman Paris M ⚡
-**Software Developer & Jr, Cloud Infra. Engineer**
+**Software Developer 🗻 & Jr, Cloud Infra. Engineer ☁️**
 
 ### Hello World! 🛡️
 I am a **Cloud Infra. Engineer** with a core in **Data Analytics & Engineering** where I have architected Data Warehouses, orchestrated ETL Pipelines, and developed Dynamic Dashboards. 
@@ -17,4 +17,4 @@ As an **IAM Analyst at Cognizant**, I manage user identities and access rights f
 
 ---
 
-[**LinkedIn**]([https://linkedin.com/in/](https://www.linkedin.com/in/salmanparis28/)) | [**Email**](mailto:salmanparis.dev@gmail.com)
+[**LinkedIn**](https://linkedin.com/in/](https://www.linkedin.com/in/salmanparis28/) | [**Email**](mailto:salmanparis.dev@gmail.com)
