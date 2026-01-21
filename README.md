@@ -17,4 +17,4 @@ As an **IAM Analyst at Cognizant**, I manage user identities and access rights f
 
 ---
 
-[**LinkedIn**](https://linkedin.com/in/](https://www.linkedin.com/in/salmanparis28/) | [**Email**](mailto:salmanparis.dev@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/salmanparis28/) | [**Email**](mailto:salmanparis.dev@gmail.com)
