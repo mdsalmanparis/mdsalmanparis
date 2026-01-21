@@ -1,57 +1,52 @@
-<div align="center">
+# <p align="center">✨ Mohamed Salman Paris M ✨</p>
+<p align="center">
+  <b>Cloud Infrastructure Engineer | Data Engineering | IAM Specialist</b>
+</p>
 
-# 👋 Hello World! I'm Mohamed Salman Paris M
-### Cloud Infrastructure Engineer | Data Engineering Specialist | IAM Analyst
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Stack&fontSize=50&animation=fadeIn" />
+</p>
+
+## 🚀 Professional Overview
+I'm a **Cloud Infra. Engineer** with a core in **Data Analytics & Engineering**. I architect Data Warehouses, orchestrate ETL Pipelines, and develop Dynamic Dashboards. 
+
+With **4+ successful software deployments** (including a government entity) under my belt, I am currently scaling horizontally into **Cloud & DevOps Methodologies**.
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+## 🛠 Tech Stack & Skills
+<p align="left">
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label="/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label="/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label="/>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4479A1&logo=PostgreSQL&logoColor=FFFFFF&label="/>
 </p>
 
 ---
 
-</div>
+## 🛡️ Current Role: IAM Analyst @ Cognizant
+> Managing user identities and access rights for a dedicated client environment.
 
-## 📑 Executive Summary
-I am a **Cloud Infrastructure Engineer** with a core focus on **Data Analytics & Engineering**. My expertise lies in architecting high-performance Data Warehouses, orchestrating complex ETL pipelines, and developing dynamic, insight-driven dashboards.
-
-In addition to data engineering, I am an experienced **Software Developer** with **4+ successful deployments**, including mission-critical systems for a government entity. I am currently scaling my knowledge base horizontally across **Cloud & DevOps Methodologies**.
-
----
-
-## 🛡️ Professional Experience: IAM Analyst @ Cognizant
-*Managing user identities and access rights for a dedicated client environment.*
-
-* **Identity Governance:** Streamlining provisioning and de‑provisioning workflows.
-* **Security Enforcement:** Implementing and managing security policies through **Group Policy Objects (GPOs)**.
-* **Compliance & CRM:** Ensuring strict adherence to client standards using **Salesforce**.
+* **Identity Management:** Full lifecycle provisioning and de‑provisioning.
+* **Security & Policy:** Enforcing security via **GPOs** (Group Policy Objects).
+* **Compliance:** Ensuring standards via **SalesForce** integration.
 
 ---
 
-## 🛠️ Technical Arsenal
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-      <br />Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-      <br />Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-      <br />JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="SQL" />
-      <br />SQL
-    </td>
-  </tr>
-</table>
+## 📊 Analytics & Impact
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="GitHub Stats" height="150" />
+</p>
 
 ---
+
+## 🤝 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
+  </a>
+</p>
