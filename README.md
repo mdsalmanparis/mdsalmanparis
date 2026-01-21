@@ -22,7 +22,7 @@ As an **IAM Analyst at Cognizant**, I manage user identities and access rights f
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=neon&hide_border=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsalmanparis&show_icons=true&theme=neon&hide_border=true" alt="Stats" />
 </p>
 
 </div>
