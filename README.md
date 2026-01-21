@@ -1,153 +1,47 @@
-## 🚀 Overview
+# Hello World! I'm Mohamed Salman Paris M 👋
 
-Hello World! I'm **Mohamed Salman Paris M'**, a Cloud Infra. Engineer with a core in **Data Analytics & Engineering** where I have architected **Data Warehouses**, orchestrated **ETL Pipelines**, and developed **Dynamic Dashboards**. I also have expertise in **Software Development** with 4+ successful deployments, including for a gov. entity. Currently, I'm scaling my knowledge base horizontally in **Cloud & DevOps** Methodologies.
+<p align="left">
+  <img src="https://img.shields.io/badge/Role-Cloud%20Infra.%20Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%26%20Analytics-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current-IAM%20Analyst%20@%20Cognizant-cyan?style=for-the-badge" />
+</p>
 
-## 🌟 Core Competencies
+---
 
-#### Platforms
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="24" height="24" alt="Windows" />
-      <br><small>Windows</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="24" height="24" alt="Linux" />
-      <br><small>Linux</small>
-    </td>
-  </tr>
-</table>
+### 🚀 About Me
+I am a **Cloud Infrastructure Engineer** with a deep-rooted expertise in **Data Analytics & Engineering**. I specialize in architecting robust Data Warehouses, orchestrating seamless ETL pipelines, and building dynamic dashboards that drive data-informed decisions.
 
-#### Programming & Scripting Languages
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="24" height="24" alt="Python" />
-      <br><small>Python</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="SQL" />
-      <br><small>SQL</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="24" height="24" alt="JavaScript" />
-      <br><small>JavaScript</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="24" height="24" alt="Java" />
-      <br><small>Java</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="24" height="24" alt="Powershell" />
-      <br><small>Powershell</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="24" height="24" alt="Shell" />
-      <br><small>Shell</small>
-    </td>
-  </tr>
-</table>
+Beyond data, I am a **Software Developer** with 4+ successful high-impact deployments, including specialized solutions for government entities. Currently, I am expanding my horizon by mastering **Cloud & DevOps Methodologies** to build more scalable and resilient systems.
 
-#### Backend
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="24" height="24" alt="Flask" />
-      <br><small>Flask</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="24" height="24" alt="Express" />
-      <br><small>Express JS</small>
-    </td>
-  </tr>
-</table>
+---
 
-#### Frontend & UI
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="24" height="24" alt="HTML" />
-      <br><small>HTML</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="24" height="24" alt="CSS" />
-      <br><small>CSS</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://avatars.githubusercontent.com/u/67109815?s=200&v=4" width="24" height="24" alt="Tailwind" />
-      <br><small>Tailwind</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="24" height="24" alt="Figma" />
-      <br><small>Figma</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="24" height="24" alt="React" />
-      <br><small>React JS</small>
-    </td>
-  </tr>
-</table>
+### 🛠️ Core Skills
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="sql" width="40" height="40"/> </a>
+</p>
 
-#### Libraries
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="24" height="24" alt="NumPy" />
-      <br><small>NumPy</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="24" height="24" alt="Pandas" />
-      <br><small>Pandas</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="24" height="24" alt="Matplotlib" />
-      <br><small>Matplotlib</small>
-    </td>
-  </tr>
-</table>
+---
 
-#### Database
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="24" height="24" alt="MySQL" />
-      <br><small>MySQL</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="24" height="24" alt="PostgreSQL" />
-      <br><small>PostgreSQL</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="24" height="24" alt="MongoDB" />
-      <br><small>MongoDB</small>
-    </td>
-  </tr>
-</table>
+### 💼 Professional Experience
+**IAM Analyst | Cognizant** *Managing enterprise-level identity and access for dedicated client environments.*
 
-#### Cloud
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/VMware_logo.svg" width="24" height="24" alt="VMWare" />
-      <br><small>VMWare</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="24" height="24" alt="AWS" />
-      <br><small>AWS Fundamentals</small>
-    </td>
-  </tr>
-</table>
+* **Identity Lifecycle:** Managing end-to-end provisioning and de-provisioning of user identities.
+* **Security & Policy:** Enforcing strict security policies through **Group Policy Objects (GPOs)**.
+* **Compliance:** Utilizing **Salesforce** to ensure all access rights align with client standards and regulatory compliance.
 
-#### Tools
-<table>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="24" height="24" alt="Tableau" />
-      <br><small>Tableau</small>
-    </td>
-    <td align="center" width="80">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="24" height="24" alt="Git" />
-      <br><small>Git</small>
-    </td>
-  </tr>
-</table>
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
