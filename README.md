@@ -1,20 +1,41 @@
-# Mohamed Salman Paris M ⚡
-**Software Developer 🗻 & Jr, Cloud Infra. Engineer ☁️**
+# Mohamed Salman Paris M
 
-### Hello World! 🛡️
-I am a **Cloud Infra. Engineer** with a core in **Data Analytics & Engineering** where I have architected Data Warehouses, orchestrated ETL Pipelines, and developed Dynamic Dashboards. 
-
-With expertise in Software Development and **4+ successful deployments** (including a gov. entity), I am currently scaling my knowledge base horizontally in **Cloud & DevOps Methodologies**.
-
-As an **IAM Analyst at Cognizant**, I manage user identities and access rights for a dedicated client environment. My work involves provisioning/de‑provisioning, enforcing security policies through **GPOs**, and ensuring compliance using **Salesforce**.
+**Backend Engineer · Python Developer · Software Engineer**
 
 ---
 
-### I love to code in 🤍
+### Hello World!
+
+I am a **Backend Engineer** focused on Python, FastAPI, and PostgreSQL — designing and shipping production-grade systems from multi-tenant SaaS platforms serving **100+ businesses** to ETL pipelines processing **3.5M+ records**.
+
+Currently at **Cognizant** as an Analyst, where I identified a manual reporting bottleneck and delivered an internal Service Request Quality Management platform — live today, handling ~150 operations daily across 10+ associates.
+
+Deepening expertise in **async Python**, **SQLAlchemy**, **system design**, and **DSA** — targeting backend engineering roles at product companies.
+
+---
+
+### I build with
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,redis,docker,aws,git,linux,nextjs,react" />
 </p>
 
 ---
 
-[**LinkedIn**](https://www.linkedin.com/in/salmanparis28/) 🌐 | [**Email**](mailto:salmanparis.dev@gmail.com) ✉️
+### What I have shipped
+
+- **Billzzy** — Multi-tenant SaaS POS platform · 100+ active businesses · Deployed on AWS EC2
+- **ExpensePro** — Personal finance PWA · 1,500+ real transactions · GROQ AI integration
+- **MOOC Examination Software** — Secure exam system · 1,000+ students · Microservices architecture
+- **இvent** — Community event management SaaS with digital boarding passes and on-site check-in
+- **Thanjavur Heritage Portal** — Government-associated cultural platform · 2,500+ monthly visitors
+
+---
+
+### Currently learning
+
+- Async Python · SQLAlchemy · Docker · GitHub Actions · System Design · DSA patterns
+
+---
+
+[**LinkedIn**](https://www.linkedin.com/in/salmanparis28/) · [**Portfolio**](https://salmanparis-portfolio.vercel.app) · [**Email**](mailto:salmanparis.dev@gmail.com)
